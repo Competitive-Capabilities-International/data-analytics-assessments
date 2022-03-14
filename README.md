@@ -35,7 +35,7 @@ maturity_assessment_dataset.csv (located in this repository)
 
 ## Part 1 - Data Querying
 ### Instructions
-Answer the below questions on maturity_assessment_dataset.csv *using Python, SQL or PySpark*. 
+Write queries in code to answer the below questions on maturity_assessment_dataset.csv, *using Python, SQL or PySpark*. 
 
 You may submit a Jupyter notebook or simply paste the code into a plain text file.
 
@@ -51,13 +51,13 @@ You may submit a Jupyter notebook or simply paste the code into a plain text fil
 We should be able to run the code and generate the correct answer, without any errors.
 
 ## Part 2 - Data Visualisation
-Using maturity_assessment_dataset.csv, generate at least three insightful visuals about the TRACC assessment data. Where applicable, provide a short description of your findings.
+Using maturity_assessment_dataset.csv, generate *at least three* insightful visuals about the TRACC assessment data. Where applicable, provide a short description of your findings.
 
-You may use any data visualisation tool of your choice. You can deliver this by providing us with a Jupyter notebook, a file, screenshots, a link or Power Point presentation.
+You may use any data visualisation tool of your choice (including Power BI or Tableau). You can deliver this by providing us with a Jupyter notebook, a file, screenshots, a link or Power Point presentation.
 
 ### Evaluation criteria
 - Visuals provide relevant and useful insights on the data, with clear headings, axes and legends
-- Short descriptions of findings are provided where possible
+- Short descriptions of findings are provided where applicable
 - Chosen tool or technology has been used effectively and efficiently
 - Overall presentation and quality of the project
 
